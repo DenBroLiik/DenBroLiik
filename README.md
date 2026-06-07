@@ -12,11 +12,12 @@
 ---
 
 ## 🚀 Навыки и технологии
-🎯 **Языки программирования:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white)
+🎯 **Языки программирования:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-rounded&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-rounded&logo=java&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-C04737?style=flat-rounded&logo=mojo&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-rounded&logo=rust&logoColor=white)
 
 🖥 **Любимые ОС:**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-rounded&logo=android&logoColor=white)
