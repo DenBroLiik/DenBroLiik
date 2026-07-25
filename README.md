@@ -27,14 +27,13 @@
 ---
 
 ## 📌 Мои проекты
-🔗 **[Copilot-AI-NN](https://github.com/DenBroLiik/Copilot-AI-NN)** – нейросетевой помощник  
+🔗 **[Xopilot](https://github.com/Xopilot/Xopilot)** – нейросетевой помощник  
 🔗 **[Linux for Arduino Uno](https://github.com/DenBroLiik/linux_for_arduino_uno)** – запуск Linux на Arduino Uno  
 
 ---
 
 ## 🌍 Социальные сети  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-rounded&logo=youtube&logoColor=white)](https://www.youtube.com/@denbroliik)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-rounded&logo=telegram&logoColor=white)](https://t.me/Copilot_AI_NN)
 
 ---
 
