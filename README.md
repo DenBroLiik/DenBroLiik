@@ -32,7 +32,7 @@
 </p>
 
 **Любимые ОС:**
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-rounded&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-rounded&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-rounded&logo=windows&logoColor=white)
 
