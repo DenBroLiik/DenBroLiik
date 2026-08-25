@@ -11,24 +11,35 @@
 
 ---
 
-## 🚀 Навыки и технологии
-🎯 **Языки программирования:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-rounded&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-rounded&logo=java&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-C04737?style=flat-rounded&logo=mojo&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-rounded&logo=rust&logoColor=white)
+## Навыки и технологии
+**Языки программирования:**
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-rounded&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-rounded&logo=c%2B%2B&logoColor=white">
+  <img src="https://rhai.rs/book/images/logo/rhai-logo-transparent-colour-black.svg" width="50">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-rounded&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Mojo-C04737?style=flat-rounded&logo=mojo&logoColor=white">
+</p>
 
-🖥 **Любимые ОС:**  
+## **ИИ инструменты:**
+<p>
+  <img src="https://img.shields.io/badge/llama.cpp-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Candle-Rust%20ML-orange?style=for-the-badge&logo=rust&logoColor=white">
+</p>
+
+**Любимые ОС:**
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-rounded&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-rounded&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-rounded&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-rounded&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 📌 Мои проекты
 🔗 **[Xopilot](https://github.com/Xopilot-AI-NN/Xopilot)** – нейросетевой помощник  
 🔗 **[Linux for Arduino Uno](https://github.com/DenBroLiik/linux_for_arduino_uno)** – запуск Linux на Arduino Uno  
+🔗 **[Android For ESP32S3](https://github.com/Xopilot-AI-NN/Android-For-ESP32S3)** – Android для esp32s3 
 
 ---
 
