@@ -8,8 +8,10 @@
   <img src="./background.jpg" alt="Background" width="100%" height="auto" style="object-fit: cover; height: 30vh; overflow: hidden; border-radius: 15px;" />
 </p>
 
-
----
+## Реально спасибо!
+<p>
+  <img src="https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&quality=80&ssl=1" width="180" alt="Open Source Initiative">
+</p>
 
 ## Навыки и технологии
 **Языки программирования:**
