@@ -27,7 +27,7 @@
 ---
 
 ## 📌 Мои проекты
-🔗 **[Xopilot](https://github.com/Xopilot/Xopilot)** – нейросетевой помощник  
+🔗 **[Xopilot](https://github.com/Xopilot-AI-NN/Xopilot)** – нейросетевой помощник  
 🔗 **[Linux for Arduino Uno](https://github.com/DenBroLiik/linux_for_arduino_uno)** – запуск Linux на Arduino Uno  
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenBroLiik&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenBroLiik&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenBroLiik&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenBroLiik&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenBroLiik&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenBroLiik&theme=tokyonight&hide_border=true" />
 </p>
