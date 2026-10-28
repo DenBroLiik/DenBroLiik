@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33A8FF&center=true&vCenter=true&width=600&lines=Программист+и+технологический+энтузиаст;Люблю+Python,+C++,+JavaScript;Создаю+проекты+с+нейросетями;Экспериментирую+с+оборудованием" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./back.png" alt="Background" width="100%" height="auto" style="object-fit: cover; height: 30vh; overflow: hidden; border-radius: 15px;" />
-</p>
+</p> -->
 
 ## Реально спасибо!
 <p>
