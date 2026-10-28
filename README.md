@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./background.jpg" alt="Background" width="100%" height="auto" style="object-fit: cover; height: 30vh; overflow: hidden; border-radius: 15px;" />
+  <img src="./back.png" alt="Background" width="100%" height="auto" style="object-fit: cover; height: 30vh; overflow: hidden; border-radius: 15px;" />
 </p>
 
 ## Реально спасибо!
